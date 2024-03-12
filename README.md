@@ -30,7 +30,7 @@ This is a verry simple application based on SwiftUi in This i have used SwiftDat
 
 - **CRUD Operations:** Implements Create, Read, Update, and Delete operations for managing expense records. in this we can Add,Delete,Edit
 
-- **CoreData** Utilizes a SwiftData To save details of expenses
+- **SwiftData** Utilizes a SwiftData To save details of expenses
 
 - **Technology Uses:**
   - SwiftUI
